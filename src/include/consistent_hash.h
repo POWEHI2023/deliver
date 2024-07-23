@@ -1,8 +1,4 @@
 
-// TODO 实现一个存储模版，当成功存储以后就不会改变地址，直到移除
-
-
-
 #include <iostream>
 #include <type_traits>
 #include <string>
